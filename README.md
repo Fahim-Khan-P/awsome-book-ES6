@@ -72,6 +72,8 @@ To get a local copy up and running, follow these steps:
 
 ```sh
   git clone https://github.com/Fahim-Khan-P/awsome-book-ES6.git
+  cd <awsome-book-ES6>
+  install third-party library: npm i
 ```
 
 ### Prerequisites
